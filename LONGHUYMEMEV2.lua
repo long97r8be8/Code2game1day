@@ -433,7 +433,7 @@ local _Discord = Tabs.Discord do
   _Discord:AddDiscordInvite({
     Name = "LongHuy Hub | Community",
     Description = "Join our discord community to receive information about the next update",
-    Logo = "rbxassetid://109902353427739",
+    Logo = "",
     Invite = "https://discord.gg/7aR7kNVt4g"
   })
 end
